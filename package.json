@@ -1,0 +1,16 @@
+{
+  "name": "entrega-bonus1",
+  "version": "1.0.2",
+  "description": "Modificación de la primera entrega permitiendo mostrar los datos ingresados a través de navegador y no con un Archivo.txt",
+  "main": "principal.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julian judsanchezga@unal.edu.co",
+  "license": "ISC"
+}
